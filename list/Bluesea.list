@@ -2,4 +2,4 @@ DOMAIN-SUFFIX,bsem.ddns.me
 DOMAIN-SUFFIX,bluesea.ddns.me
 DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN-SUFFIX,blueseamusics.com
-IP-CIDR,5.78.94.54/32
+IP-CIDR,5.226.51.24/32,no-resolve
