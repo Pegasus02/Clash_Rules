@@ -89,7 +89,7 @@ DOMAIN,cf1.jmsooo.com
 
 # > pornemby
 DOMAIN-SUFFIX,ii00.cc
-IP-CIDR, 101.89.149.186/32,no-resolve
+IP-CIDR, 210.51.27.46/32,no-resolve
 
 # > IMM
 DOMAIN,emby.immtel.com
