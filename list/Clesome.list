@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,clesome.link
 DOMAIN-SUFFIX,cleso.me
 DOMAIN-SUFFIX,clesome.asia
 IP-CIDR,5.226.51.24/32,no-resolve
+IP-CIDR,124.220.228.83/32,no-resolve
